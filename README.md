@@ -1,0 +1,1 @@
+This project is an interactive quiz application built using HTML and CSS. The quiz allows users to select answers to questions with hover hints. The design focuses on providing a clean and user-friendly interface with visually appealing styles.
