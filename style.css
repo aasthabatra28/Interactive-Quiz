@@ -1,0 +1,24 @@
+*{
+    background-color: #0d1117;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+.question{
+    color: white;
+}
+.submit{
+    color: white;
+
+    background-color: black;
+}
+.hint1{
+    color: #0d1117;
+}
+.hint1:hover{
+    color: white;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+}
